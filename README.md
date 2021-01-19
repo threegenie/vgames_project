@@ -1,3 +1,5 @@
-# vgames project
+# Video Game Revenue Data Analysis Project
 
-회사별 비디오게임 매출액 데이터 분석 프로젝트
+- used dataset : vgames2.csv(https://drive.google.com/file/d/1bkdtehKMt9mUz4cN0TMJt1PUUs7Y5qgF/view?usp=sharing)
+
+- google colab, python(pandas,matplotlib etc.)
