@@ -53,7 +53,7 @@ Script File : https://drive.google.com/file/d/1FZnfrONo8xfIInwRmi67UYGCfgEpC37E/
 
 
 ![12](https://user-images.githubusercontent.com/63702924/105462436-f7c90a00-5cd1-11eb-93d6-4397add60994.PNG)
-10년간 매출액을 보면, 액션 장르의 매출액이 가장 높습니다. 이는 레고 시리즈를 필두로 한 액션 게임들이 게임별 10대 매출액 순위에 많이 포함된 것으로 증명됩니다.
+10년간 매출액을 보면, 액션 장르의 매출액이 가장 높습니다. 이는 레고 시리즈를 필두로 한 액션 게임들이 게임별 10대 매출액 순위에 많이 포함된 것으로 증명할 수 있습니다.
 
 
 ![13](https://user-images.githubusercontent.com/63702924/105462438-f861a080-5cd1-11eb-820f-b884f2f42082.PNG)
