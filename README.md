@@ -11,6 +11,4 @@
 
 ✔️ 환경 : google colab, python(pandas,matplotlib etc.)
 
-✔️ 프로젝트 정리
-
-- [프로젝트 PPT](https://github.com/threegenie/vgames_project/blob/main/presentation.md)
+✔️ 프로젝트 정리 : [프로젝트 PPT](https://github.com/threegenie/vgames_project/blob/main/presentation.md)
